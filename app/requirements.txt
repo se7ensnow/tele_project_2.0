@@ -1,0 +1,4 @@
+pymongo~=4.1.1
+pyTelegramBotAPI~=4.8.0
+dnspython~=2.2.1
+aiohttp~=3.8.3
